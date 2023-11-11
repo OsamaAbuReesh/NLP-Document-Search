@@ -1,13 +1,13 @@
 # NLP-Document-Search
 
 # Description:
-The Text Similarity Analyzer is a Python-based project that leverages Natural Language Processing (NLP) techniques to analyze and rank documents based on their similarity to a user-input query. The system utilizes the Term Frequency-Inverse Document Frequency (TF-IDF) approach and Cosine Similarity to determine the relevance of documents to a given query. Stop words in the English language are removed to enhance the accuracy of the analysis. 🚀 This tool is designed to assist in document retrieval and search tasks, making it valuable for information retrieval and text mining applications.
+The Text Similarity Analyzer is a Python-based project that leverages Natural Language Processing (NLP) techniques to analyze and rank documents based on their similarity to a user-input query. The system now utilizes a simplified tokenization process and an updated vectorizer configuration for improved accuracy. 🚀 This tool is designed to assist in document retrieval and search tasks, making it valuable for information retrieval and text mining applications.
 
 # Features:
 
-TF-IDF and Cosine Similarity for document analysis. 📊
-Removal of English stop words for improved accuracy. 🛑
-Top 5 relevant documents displayed for a user-entered query. 📋
+- TF-IDF and Cosine Similarity for document analysis. 📊
+- Removal of English stop words for improved accuracy. 🛑
+- Top 5 relevant documents displayed for a user-entered query. 📋
 
 # Usage:
 - Enter a query. 🖋️
